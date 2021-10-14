@@ -10,3 +10,6 @@ Risk, B. B., Matteson, D. S., & Ruppert, D. (2019). Linear non-gaussian componen
 https://www.tandfonline.com/doi/abs/10.1080/01621459.2017.1407772
 
 https://arxiv.org/pdf/1511.01609.pdf 
+
+
+Video showing a simulated example of LNGCA: https://youtu.be/zmo2teK5n8U
